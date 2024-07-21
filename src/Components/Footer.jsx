@@ -4,9 +4,9 @@ function Footer() {
   return (
     <>
     
-    <footer class="footer fixed-bottom bg-dark text-light p-3">
-    <div class="container bg-dark ">
-      <p class="text-center bg-dark mb-0"><span className="bg-dark ">&copy; 2024 Prakash V S. All rights reserved.</span></p>
+    <footer class="footer fixed-bottom bg-light text-dark p-3">
+    <div class="container bg-light ">
+      <p class="text-center bg-light mb-0"><span className="bg-light ">&copy; 2024 Rajeshvj. All rights reserved.</span></p>
     </div>
   </footer>
 

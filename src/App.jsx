@@ -117,9 +117,9 @@ function App() {
             </div>
           </div>
         </div>
-        <div className='row todo-cards-row py-5 d-flex justify-content-center'>
+        <div className='row todo-cards-row py-5 d-flex justify-content-center '>
             {
-              filteredCards.length === 0 ? <h3 className='h3 text-center mb-4'>ToDo is Empty 😁.</h3> :
+              filteredCards.length === 0 ? <h3 className='h3 text-center mb-4'>ToDo is Empty🌐</h3> :
               filteredCards.map((card)=>{
                 return <Card key={card.id} card={card} cardUpdate={cardUpdate} cardDelete={cardDelete} 
                 filterChange={filterChange}/>
