@@ -1,6 +1,7 @@
 <h3>required packages:<h3>
 
-<h4 className="text-light color-red">//npm install react
+<h4>
+//npm install react
 
 //npm install react-router
 
